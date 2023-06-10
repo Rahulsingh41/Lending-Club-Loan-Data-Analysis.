@@ -65,4 +65,4 @@ This will help reduce the number of features and will leave you with the most re
 
 After applying EDA and feature engineering, you are now ready to build the predictive models
 
-In this part, you will create a deep learning model using Keras with Tensorflow backend
+In this part, you will create a deep learning model using Keras with Tensorflow backend.
